@@ -1,7 +1,7 @@
 # MLewisResume
 Matayla Lewis Resume
 
-# Description: Updated resume in HTML/CSS format
+# Updated resume in HTML/CSS format
 
 Hi! I'm Matayla. 👋 This is my resume.
 
